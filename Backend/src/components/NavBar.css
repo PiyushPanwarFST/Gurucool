@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav {
+  background-color: black;
+  color: antiquewhite;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: white;
+}
+
+.item {
+  margin: 12px;
+  font-size: 1.5rem;
+}
+
+
+
+  
+  
+  

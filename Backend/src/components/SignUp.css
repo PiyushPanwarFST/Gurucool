@@ -1,0 +1,28 @@
+.formbox {
+    width: 400px;
+    margin: auto;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom right, white, rgb(125, 190, 248));
+    box-shadow: 10px 10px 45px black;
+  }
+  h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+  }
+  button {
+    height: 35px;
+    width: 120px;
+    margin-left: 60px;
+    font-weight: 900;
+    margin-bottom: 2rem;
+  }
+  
+  input {
+    height: 2rem;
+  }
+  
