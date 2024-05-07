@@ -1,5 +1,7 @@
 # Authentication App
 
+<img width="583" alt="Screenshot 2024-04-02 at 6 02 24 PM" src="https://github.com/PiyushPanwarFST/Authentication-App/assets/153702744/298f891b-962e-45d6-b4a4-60de2b686030">
+
 This is a full-stack authentication app built using React.js for the frontend and Express.js for the backend. It provides user authentication functionalities using JWT (JSON Web Tokens) and Redis for session management. MongoDB with Mongoose is used as the database to store user information.
 
 ## Features
