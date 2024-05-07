@@ -33,7 +33,12 @@ This is a full-stack authentication app built using React.js for the frontend an
 
 1. Clone the repository:
 
-git clone (https://github.com/PiyushPanwarFST/Gurucool.git)
+2. ### Installation
+
+1. Clone the repository:
+
+   ```bash
+   [https://github.com/PiyushPanwarFST/Gurucool.git]
 
 
 ## Installation Dependencies
